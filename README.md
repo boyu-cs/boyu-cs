@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Boyu Yang.
-  - Master of Computer Science. 
-  - My work about Computer Version.
-  - Now I am doing a project on point cloud.
+  - Now a research assistant.
+  - Now I am doing a project on robot and embodied AI.
 - 👀 My blog is [here](https://boyu-cs.github.io)
-- 🌱 I’m currently learning PyTorch and doing some work on LiDAR.
+- 🌱 I’m currently learning CUDA and doing some work on LiDAR.
   - Maybe more?
 - 📫 You can reach me by comment my Blog :smile:
 - :+1: Thanks for reading this!
